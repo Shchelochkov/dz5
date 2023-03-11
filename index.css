@@ -1,0 +1,24 @@
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+tr{
+    height: 70px;
+}
+td{
+    width: 60px;
+}
+.color1{
+    background-color: rgba(40, 203, 243, 0.288);
+    font-size: x-large;
+}
+.color2{
+    background-color: rgba(40, 203, 243, 0.288);
+    font-size: x-large;
+}
+.color3{
+    background-color: rgba(207, 207, 207, 0.703);
+}
